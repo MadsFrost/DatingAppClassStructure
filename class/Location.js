@@ -8,6 +8,6 @@ module.exports = class Location {
     }
 
     get bearings(){
-        // Implement some type of way to get a datastring containing city, region and country from the latitude and longitude of the location.
+        // Implement some type of way to get a datastring containing city, region and country from the potential other attribute of information given by the user.
     }
 }
